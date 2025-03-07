@@ -3,3 +3,4 @@ Hi
 Bye
 how are you
 yes
+Remote content
