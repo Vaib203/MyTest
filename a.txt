@@ -4,3 +4,5 @@ Bye
 how are you
 yes
 Remote content
+local content
+
